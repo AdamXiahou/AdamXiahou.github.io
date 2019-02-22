@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[用hexo+github搭建个人博客]]></title>
-    <url>%2F2019%2F02%2F14%2F%E7%94%A8hexo%2Bgithub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"><![CDATA[asdasdasd 用hexo+github搭建个人博客使用Hexo搭建博客，十分简单方便。测试 1$ 代码流 More info: 更多内容]]></content>
+    <title><![CDATA[烟台赛睿科技有限公司宣传单页及logo]]></title>
+    <url>%2F2019%2F02%2F20%2F%E7%83%9F%E5%8F%B0%E8%B5%9B%E7%9D%BF%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E5%AE%A3%E4%BC%A0%E5%8D%95%E9%A1%B5%E5%8F%8Alogo%2F</url>
+    <content type="text"><![CDATA[做平面设计不仅仅是设计师一个人的问题，是设计师与需求方不断商讨，确认；围绕产品的角度出发，在兼顾需求方要求的同时，设计师在不耽误工期的前提下的发挥创作。以下简单的展示一下赛尔瑞拜欧项目。 ##在这次项目的进行过程中，首先，与需求方确定好赛瑞科技有限公司关于此产品的logo logo根据工商局商标注册规定调成合适大小 确定背景色调确定完logo之后当然是与需求方讨论作品整体风格以及色调，当时，需求方拿出了一幅其他同类型产品的样例，由于需求方要求时间紧急要在一周之内完成，所以不多做风格方面的讨论，直接与样例类似，整体风格很快就确立了。接下来定色调]]></content>
       <categories>
-        <category>搭建博客</category>
+        <category>求职</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
-        <tag>github</tag>
-        <tag>个人博客</tag>
-        <tag>教程</tag>
+        <tag>招聘展览，项目介绍</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F02%2F10%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" more: More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
